@@ -1,127 +1,137 @@
-PureHarvest – Organic Food Delivery App UI 🌿
-Project Overview
+🌿 PureHarvest – Organic Food Delivery App UI
 
-PureHarvest is a modern mobile UI concept for an organic food delivery application designed to promote healthy living through fresh farm produce and seamless grocery shopping experiences.
+A modern high fidelity mobile UI concept designed to deliver fresh organic products with a clean, trustworthy, and premium user experience.
 
-This project was created as part of DecodeLabs Project 3: The Visual Identity, focused on transforming low fidelity ideas into a polished high fidelity mobile interface using strong visual hierarchy, typography, spacing, and branding principles.
+✨ Project Overview
 
-The design emphasizes:
+PureHarvest is a mobile UI/UX design project created as part of DecodeLabs Project 3 – The Visual Identity.
 
-Freshness
-Simplicity
-Trust
-Organic living
-Modern mobile experience
-Screens Included
-1. Splash Screen
+The goal of this project was to transform a simple wireframe into a polished high fidelity mobile experience while focusing on:
 
-A clean onboarding experience introducing the PureHarvest brand with:
-
-Brand logo
-Organic food imagery
-CTA button
-Soft natural color palette
-2. Product List Screen
-
-A browsing experience that allows users to:
-
-Search products
-Explore categories
-View best selling organic products
-Add items to cart quickly
-3. Product Description Screen
-
-A detailed product page showcasing:
-
-Product imagery
-Nutritional highlights
-Product description
-Delivery information
-Add to cart functionality
-Design Goals
-
-The primary goal of this project was to create a premium organic food delivery interface that communicates:
-
-Freshness
-Health
-Speed
-Reliability
-Simplicity
-
-The interface was designed with usability and visual consistency in mind while maintaining a modern and approachable aesthetic.
-
-Design System
-Color Palette
-Usage	Color
-Primary Green	#4CAF50
-Secondary Green	#006E1C
-Accent Orange	#FFA726
-Background	#FBF9F8
-Primary Text	#1B1C1C
-Border/Divider	#6F7A6B
+Visual hierarchy
 Typography
+Color harmony
+Spacing consistency
+Branding
+Premium UI presentation
+
+The application is designed for users who want a simple and healthy way to order fresh organic groceries directly from local farms.
+
+📱 Screens Designed
+🌱 Splash Screen
+
+A clean onboarding experience introducing the PureHarvest brand identity.
+
+Features
+Organic themed background imagery
+Brand logo and tagline
+Strong CTA button
+Soft overlay for readability
+🛒 Product List Screen
+
+A product browsing experience focused on simplicity and usability.
+
+Features
+Search functionality
+Product categories
+Best seller products
+Product cards
+Bottom navigation
+🥑 Product Description Screen
+
+A detailed product page that helps users make purchase decisions quickly.
+
+Features
+Product image gallery
+Nutritional highlights
+Product information
+Delivery details
+Add to cart interaction
+🎨 Design System
+🌈 Color Palette
+Usage	Hex
+Primary Green	#4CAF50
+Secondary Green	#2E7D32
+Accent Orange	#FFA726
+Background	#F8F7F2
+Primary Text	#333333
+Divider/Borders	#E5E7EB
+🔠 Typography
 Font Family
 Poppins
-Typography Hierarchy
-Heading: Poppins Bold
-Subheading: Poppins SemiBold
-Body Text: Poppins Regular
-Labels: Poppins Medium
-Tools Used
+Type	Weight
+Heading	Bold
+Subheading	SemiBold
+Body Text	Regular
+Labels	Medium
+🧩 UI/UX Principles Applied
+
+✅ Visual hierarchy
+✅ Consistent spacing system
+✅ 4 column mobile grid
+✅ 8 point spacing system
+✅ Soft shadows and rounded corners
+✅ Clean and modern layout
+✅ Accessibility focused readability
+✅ Consistent component styling
+
+🛠️ Tools Used
 Figma
-Unsplash (for imagery inspiration)
-ChatGPT (for UX guidance and content generation)
-Key UI/UX Principles Applied
-Visual hierarchy
-Consistent spacing
-4 column mobile grid system
-8 point spacing system
-Accessibility focused contrast
-Rounded UI components
-Minimal and clean interface
-Soft shadows for depth
-Challenges Faced
+Unsplash (image inspiration)
+ChatGPT (UX guidance and content generation)
+📌 Challenges Faced
 
-During the design process, some key challenges included:
+During the design process, I encountered several challenges such as:
 
-Creating a balanced visual hierarchy
-Maintaining consistency across screens
-Choosing an effective organic themed color palette
-Improving splash screen readability while preserving imagery
+Creating a strong visual hierarchy
+Maintaining spacing consistency
+Balancing image visibility with readability
+Designing a clean organic themed interface
+Building reusable UI components
 
-These challenges helped improve my understanding of:
+These challenges helped improve my understanding of modern mobile UI design systems and interface consistency.
 
-UI consistency
-Typography systems
-Component design
-Layout organization
-What I Learned
+📚 What I Learned
 
 Through this project, I gained hands on experience in:
 
-Building high fidelity mobile UI screens
-Creating a visual identity system
-Using spacing and typography effectively
-Designing reusable UI components
-Structuring UI case study presentations
-Final Outcome
+High fidelity UI design
+Mobile app layout systems
+Typography hierarchy
+Branding and visual identity
+UI consistency
+Component based design
+UI case study presentation
+🚀 Final Outcome
 
-PureHarvest successfully delivers a clean and modern organic food delivery experience with strong visual consistency and a premium aesthetic.
+PureHarvest successfully delivers a clean and modern organic food delivery experience with:
 
-This project reflects my growing understanding of:
+Strong branding
+Consistent UI patterns
+User friendly layout
+Premium visual presentation
 
-Mobile UI design
-Branding
-User centered design
+This project reflects my growth in:
+
+UI design
 Visual communication
-Preview
-Key Features
-Organic themed branding
-Product browsing interface
-Modern CTA components
-Clean UI presentation
-Author
+User centered thinking
+Mobile product design
+📸 Project Preview
+Key Highlights
 
+🌿 Organic branding
+🛒 Clean product browsing
+🥑 Product detail experience
+📱 Modern mobile layout
+✨ Minimal and premium UI
+
+👨‍💻 Author
 Fisayo Olofin
+
 UI/UX Designer
 DecodeLabs Industrial Training Program 2026
+
+⭐ Thank You For Viewing This Project
+
+Feedback and suggestions are always welcome.
