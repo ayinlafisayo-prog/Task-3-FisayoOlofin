@@ -1,137 +1,200 @@
-🌿 PureHarvest – Organic Food Delivery App UI
+```md
+<div align="center">
 
-A modern high fidelity mobile UI concept designed to deliver fresh organic products with a clean, trustworthy, and premium user experience.
+# 🌿 PureHarvest
+### Organic Food Delivery Mobile App UI
 
-✨ Project Overview
+<img width="120" alt="PureHarvest Logo" src="https://img.icons8.com/color/240/vegetarian-food-symbol.png"/>
 
-PureHarvest is a mobile UI/UX design project created as part of DecodeLabs Project 3 – The Visual Identity.
+### Fresh. Organic. Delivered.
 
-The goal of this project was to transform a simple wireframe into a polished high fidelity mobile experience while focusing on:
+A modern high fidelity mobile UI design focused on healthy living, clean grocery shopping experiences, and premium organic branding.
 
-Visual hierarchy
-Typography
-Color harmony
-Spacing consistency
-Branding
-Premium UI presentation
+<br>
 
-The application is designed for users who want a simple and healthy way to order fresh organic groceries directly from local farms.
+![Figma](https://img.shields.io/badge/Designed%20With-Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-4CAF50?style=for-the-badge)
+![Mobile App](https://img.shields.io/badge/Mobile-App%20Design-FFA726?style=for-the-badge)
 
-📱 Screens Designed
-🌱 Splash Screen
+</div>
 
-A clean onboarding experience introducing the PureHarvest brand identity.
+---
 
-Features
-Organic themed background imagery
-Brand logo and tagline
-Strong CTA button
-Soft overlay for readability
-🛒 Product List Screen
+# ✨ Overview
 
-A product browsing experience focused on simplicity and usability.
+PureHarvest is a modern organic food delivery mobile application designed to help users purchase fresh farm produce easily and conveniently.
 
-Features
-Search functionality
-Product categories
-Best seller products
-Product cards
-Bottom navigation
-🥑 Product Description Screen
+This project was created as part of **DecodeLabs Project 3 – The Visual Identity**, where the objective was to transform wireframes into a polished high fidelity mobile experience.
 
-A detailed product page that helps users make purchase decisions quickly.
+The design focuses heavily on:
 
-Features
-Product image gallery
-Nutritional highlights
-Product information
-Delivery details
-Add to cart interaction
-🎨 Design System
-🌈 Color Palette
-Usage	Hex
-Primary Green	#4CAF50
-Secondary Green	#2E7D32
-Accent Orange	#FFA726
-Background	#F8F7F2
-Primary Text	#333333
-Divider/Borders	#E5E7EB
-🔠 Typography
-Font Family
-Poppins
-Type	Weight
-Heading	Bold
-Subheading	SemiBold
-Body Text	Regular
-Labels	Medium
-🧩 UI/UX Principles Applied
+✅ Visual Hierarchy  
+✅ Clean UI Design  
+✅ Premium Organic Branding  
+✅ Typography Consistency  
+✅ Modern Mobile Layouts  
+✅ User Friendly Navigation  
 
-✅ Visual hierarchy
-✅ Consistent spacing system
-✅ 4 column mobile grid
-✅ 8 point spacing system
-✅ Soft shadows and rounded corners
-✅ Clean and modern layout
-✅ Accessibility focused readability
-✅ Consistent component styling
+---
 
-🛠️ Tools Used
-Figma
-Unsplash (image inspiration)
-ChatGPT (UX guidance and content generation)
-📌 Challenges Faced
+# 📱 Key Screens
 
-During the design process, I encountered several challenges such as:
+<table>
+<tr>
+<td align="center">
 
-Creating a strong visual hierarchy
-Maintaining spacing consistency
-Balancing image visibility with readability
-Designing a clean organic themed interface
-Building reusable UI components
+## 🌱 Splash Screen
 
-These challenges helped improve my understanding of modern mobile UI design systems and interface consistency.
+A clean onboarding experience introducing the PureHarvest brand.
 
-📚 What I Learned
+</td>
 
-Through this project, I gained hands on experience in:
+<td align="center">
 
-High fidelity UI design
-Mobile app layout systems
-Typography hierarchy
-Branding and visual identity
-UI consistency
-Component based design
-UI case study presentation
-🚀 Final Outcome
+## 🛒 Product List Screen
+
+A modern product browsing interface with categories and best sellers.
+
+</td>
+
+<td align="center">
+
+## 🥑 Product Details Screen
+
+A detailed product experience focused on usability and clarity.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎨 Design System
+
+## 🌈 Color Palette
+
+| Purpose | Color | Hex |
+|---|---|---|
+| Primary Green | 🟩 | `#4CAF50` |
+| Secondary Green | 🟢 | `#006E1C` |
+| Accent Orange | 🟧 | `#FFA726` |
+| Background | ⬜ | `#FBF9F8` |
+| Primary Text | ⚫ | `#1B1C1C` |
+| Secondary Text | ⚪ | `#6F7A76` |
+
+---
+
+# 🔠 Typography
+
+<div align="center">
+
+## Poppins
+
+Modern • Clean • Readable • Mobile Friendly
+
+</div>
+
+| Type | Weight |
+|---|---|
+| Heading | Bold |
+| Subheading | SemiBold |
+| Body Text | Regular |
+| Labels | Medium |
+
+---
+
+# 🧩 UI/UX Principles Applied
+
+✔️ 4 Column Mobile Grid  
+✔️ 8 Point Spacing System  
+✔️ Consistent Component Design  
+✔️ Rounded UI Elements  
+✔️ Accessibility Focused Contrast  
+✔️ Minimal Layout Structure  
+✔️ Soft Shadows & Depth  
+✔️ Strong Visual Hierarchy  
+
+---
+
+# 🛠️ Tools Used
+
+| Tool | Purpose |
+|---|---|
+| Figma | UI Design |
+| Unsplash | Image Assets |
+| ChatGPT | UX Guidance & Content |
+
+---
+
+# 🚧 Challenges Faced
+
+During the design process, several challenges were encountered including:
+
+- Creating a balanced visual hierarchy
+- Maintaining layout consistency
+- Designing reusable UI components
+- Balancing imagery with readability
+- Developing a clean organic visual identity
+
+These challenges improved my understanding of:
+- Mobile UI systems
+- Branding consistency
+- Typography hierarchy
+- Interface presentation
+
+---
+
+# 📚 What I Learned
+
+This project helped me gain practical experience in:
+
+🌿 High Fidelity UI Design  
+🌿 Mobile App Layout Systems  
+🌿 Design Consistency  
+🌿 Typography Systems  
+🌿 Component Based Design  
+🌿 Visual Identity Creation  
+🌿 UI Case Study Presentation  
+
+---
+
+# 🚀 Final Outcome
 
 PureHarvest successfully delivers a clean and modern organic food delivery experience with:
 
-Strong branding
-Consistent UI patterns
-User friendly layout
-Premium visual presentation
+✨ Premium branding  
+✨ Consistent interface patterns  
+✨ User friendly layouts  
+✨ Clean visual hierarchy  
+✨ Modern mobile aesthetics  
 
 This project reflects my growth in:
+- UI Design
+- User Experience Design
+- Branding
+- Visual Communication
 
-UI design
-Visual communication
-User centered thinking
-Mobile product design
-📸 Project Preview
-Key Highlights
+---
 
-🌿 Organic branding
-🛒 Clean product browsing
-🥑 Product detail experience
-📱 Modern mobile layout
-✨ Minimal and premium UI
+# 👨‍💻 Author
 
-👨‍💻 Author
-Fisayo Olofin
+<div align="center">
 
-UI/UX Designer
+## Fisayo Olofin
+
+### UI/UX Designer  
 DecodeLabs Industrial Training Program 2026
 
-⭐ Thank You For Viewing This Project
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ Thank You For Viewing This Project
 
 Feedback and suggestions are always welcome.
+
+</div>
+```
+
