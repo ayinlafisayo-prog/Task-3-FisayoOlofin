@@ -1,14 +1,13 @@
-```md
 <div align="center">
 
 # 🌿 PureHarvest
 ### Organic Food Delivery Mobile App UI
 
-<img width="120" alt="PureHarvest Logo" src="https://img.icons8.com/color/240/vegetarian-food-symbol.png"/>
+<img width="120" src="https://img.icons8.com/color/240/vegetarian-food-symbol.png"/>
 
 ### Fresh. Organic. Delivered.
 
-A modern high fidelity mobile UI design focused on healthy living, clean grocery shopping experiences, and premium organic branding.
+A modern high fidelity mobile UI design focused on healthy living, fresh organic groceries, and premium user experience.
 
 <br>
 
@@ -20,52 +19,57 @@ A modern high fidelity mobile UI design focused on healthy living, clean grocery
 
 ---
 
-# ✨ Overview
+# ✨ Project Overview
 
 PureHarvest is a modern organic food delivery mobile application designed to help users purchase fresh farm produce easily and conveniently.
 
-This project was created as part of **DecodeLabs Project 3 – The Visual Identity**, where the objective was to transform wireframes into a polished high fidelity mobile experience.
+This project was created as part of **DecodeLabs Project 3 – The Visual Identity**, where the objective was to transform low fidelity wireframes into a polished high fidelity mobile experience.
 
 The design focuses heavily on:
 
-✅ Visual Hierarchy  
-✅ Clean UI Design  
-✅ Premium Organic Branding  
-✅ Typography Consistency  
-✅ Modern Mobile Layouts  
-✅ User Friendly Navigation  
+- Visual hierarchy
+- Typography consistency
+- Color harmony
+- Clean layouts
+- Organic branding
+- Premium mobile UI design
 
 ---
 
-# 📱 Key Screens
-
-<table>
-<tr>
-<td align="center">
+# 📱 Screens Designed
 
 ## 🌱 Splash Screen
+A clean onboarding experience introducing the PureHarvest brand identity.
 
-A clean onboarding experience introducing the PureHarvest brand.
+### Features
+- Organic themed imagery
+- Brand logo and tagline
+- Call to action button
+- Soft premium aesthetic
 
-</td>
-
-<td align="center">
+---
 
 ## 🛒 Product List Screen
+A modern browsing experience designed for easy grocery shopping.
 
-A modern product browsing interface with categories and best sellers.
+### Features
+- Search functionality
+- Product categories
+- Best seller section
+- Product cards
+- Bottom navigation
 
-</td>
+---
 
-<td align="center">
+## 🥑 Product Description Screen
+A detailed product page focused on readability and usability.
 
-## 🥑 Product Details Screen
-
-A detailed product experience focused on usability and clarity.
-
-</td>
-</tr>
-</table>
+### Features
+- Product imagery
+- Product description
+- Nutritional highlights
+- Delivery information
+- Add to cart interaction
 
 ---
 
@@ -73,26 +77,21 @@ A detailed product experience focused on usability and clarity.
 
 ## 🌈 Color Palette
 
-| Purpose | Color | Hex |
-|---|---|---|
-| Primary Green | 🟩 | `#4CAF50` |
-| Secondary Green | 🟢 | `#006E1C` |
-| Accent Orange | 🟧 | `#FFA726` |
-| Background | ⬜ | `#FBF9F8` |
-| Primary Text | ⚫ | `#1B1C1C` |
-| Secondary Text | ⚪ | `#6F7A76` |
+| Purpose | Hex |
+|---|---|
+| Primary Green | `#4CAF50` |
+| Secondary Green | `#006E1C` |
+| Accent Orange | `#FFA726` |
+| Background | `#FBF9F8` |
+| Primary Text | `#1B1C1C` |
+| Secondary Text | `#6F7A76` |
 
 ---
 
 # 🔠 Typography
 
-<div align="center">
-
-## Poppins
-
-Modern • Clean • Readable • Mobile Friendly
-
-</div>
+## Font Family
+### Poppins
 
 | Type | Weight |
 |---|---|
@@ -105,24 +104,22 @@ Modern • Clean • Readable • Mobile Friendly
 
 # 🧩 UI/UX Principles Applied
 
-✔️ 4 Column Mobile Grid  
-✔️ 8 Point Spacing System  
-✔️ Consistent Component Design  
-✔️ Rounded UI Elements  
-✔️ Accessibility Focused Contrast  
-✔️ Minimal Layout Structure  
-✔️ Soft Shadows & Depth  
-✔️ Strong Visual Hierarchy  
+✅ 4 Column Mobile Grid  
+✅ 8 Point Spacing System  
+✅ Visual Hierarchy  
+✅ Rounded UI Components  
+✅ Soft Shadows  
+✅ Accessibility Focused Contrast  
+✅ Clean Layout Structure  
+✅ Consistent Component Design  
 
 ---
 
 # 🛠️ Tools Used
 
-| Tool | Purpose |
-|---|---|
-| Figma | UI Design |
-| Unsplash | Image Assets |
-| ChatGPT | UX Guidance & Content |
+- Figma
+- Unsplash
+- ChatGPT
 
 ---
 
@@ -130,31 +127,30 @@ Modern • Clean • Readable • Mobile Friendly
 
 During the design process, several challenges were encountered including:
 
-- Creating a balanced visual hierarchy
-- Maintaining layout consistency
-- Designing reusable UI components
+- Creating a strong visual hierarchy
+- Maintaining spacing consistency
 - Balancing imagery with readability
+- Designing reusable UI components
 - Developing a clean organic visual identity
 
 These challenges improved my understanding of:
 - Mobile UI systems
-- Branding consistency
 - Typography hierarchy
+- Branding consistency
 - Interface presentation
 
 ---
 
 # 📚 What I Learned
 
-This project helped me gain practical experience in:
+Through this project, I gained practical experience in:
 
-🌿 High Fidelity UI Design  
-🌿 Mobile App Layout Systems  
-🌿 Design Consistency  
-🌿 Typography Systems  
-🌿 Component Based Design  
-🌿 Visual Identity Creation  
-🌿 UI Case Study Presentation  
+- High fidelity UI design
+- Mobile layout systems
+- Typography systems
+- Component based design
+- Branding and visual identity
+- UI presentation structure
 
 ---
 
@@ -163,29 +159,24 @@ This project helped me gain practical experience in:
 PureHarvest successfully delivers a clean and modern organic food delivery experience with:
 
 ✨ Premium branding  
-✨ Consistent interface patterns  
+✨ Consistent UI patterns  
 ✨ User friendly layouts  
-✨ Clean visual hierarchy  
 ✨ Modern mobile aesthetics  
+✨ Clean visual hierarchy  
 
 This project reflects my growth in:
 - UI Design
 - User Experience Design
-- Branding
 - Visual Communication
+- Mobile Product Design
 
 ---
 
 # 👨‍💻 Author
 
-<div align="center">
-
 ## Fisayo Olofin
-
-### UI/UX Designer  
+UI/UX Designer  
 DecodeLabs Industrial Training Program 2026
-
-</div>
 
 ---
 
@@ -196,5 +187,4 @@ DecodeLabs Industrial Training Program 2026
 Feedback and suggestions are always welcome.
 
 </div>
-```
 
